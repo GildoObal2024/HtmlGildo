@@ -9,7 +9,7 @@ text-size-adjust: 85px;
 justify-content: center;
 }
 section{
-background-color: aqua;
+background-color: rgb(255, 0, 0);
 margin: 45px;
 display: flex;
 }
