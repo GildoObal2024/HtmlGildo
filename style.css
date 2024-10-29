@@ -4,7 +4,12 @@ body{
 }
 header{
 margin:45px ;
-background-color: blue;
+background-color: rgb(177, 199, 241);
 text-size-adjust: 85px;
 justify-content: center;
+}
+section{
+background-color: aqua;
+margin: 45px;
+display: flex;
 }
