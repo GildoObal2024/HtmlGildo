@@ -2,6 +2,22 @@ body{
     background-color: rgb(255, 0, 0);
     color: black;
 }
+section{
+    background-color: #530b08;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: center;
+}
+.primeira chamada{
+    margin-right: 5%;
+}
+.mais videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
 header{
 margin:45px ;
 background-color: rgb(177, 199, 241);
